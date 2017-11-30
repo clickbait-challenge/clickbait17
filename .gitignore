@@ -1,0 +1,14 @@
+**.zip
+**.swp
+**.pyc
+**.txt
+clickbait17-train-170331
+clickbait17-unlabeled-170429
+clickbait17-validation-170616
+clickbait17-validation-170630
+clickbait17-train-170630
+**.h5
+outfile
+test_predictions
+test_truths
+test_annotations.jsonl
